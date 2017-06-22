@@ -1,0 +1,13 @@
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/exception/BadRequestException.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/entity/User.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/exception/NotFoundException.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/service/UserService.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/controller/UserController.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/ServletInitializer.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/WebConfig.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/service/impl/UserServiceImpl.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/repository/UserRepository.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/constant/URI.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/repository/impl/UserRepositoryImpl.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/SwaggerConfig.java
+/Users/osmanmohammed/Documents/Spring-Practice/spring-rest/src/main/java/io/egen/spring/api/JPAConfig.java
